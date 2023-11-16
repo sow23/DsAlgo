@@ -1,1 +1,1 @@
-# DsAlgo sdet project
+# DsAlgo sdet
